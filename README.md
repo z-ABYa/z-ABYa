@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Making things
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-yadav-490263316/
 - ⚡ Fun fact: I like to go all in.
 
